@@ -41,16 +41,15 @@ For Hardware:
 
 # Screenshots (Add at least 3)
 ![1000090978](https://github.com/user-attachments/assets/7b4ed3eb-a804-4101-ae55-e116344628a6)
+
+
 ![1000090979](https://github.com/user-attachments/assets/0e4c18db-5b4f-4e66-ac37-4c0161f28efb)
+
 
 *Add caption explaining what this shows*
 ![1000090977](https://github.com/user-attachments/assets/a8901651-8060-4f15-9ed9-4e8245b32e95)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -59,8 +58,9 @@ For Hardware:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![1000089032](https://github.com/user-attachments/assets/37f8f069-8b36-4b5c-a72b-bd9d45fdfe19)
+
+*raspberry pi pico pinout*
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
