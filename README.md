@@ -24,7 +24,7 @@ Today's world has TOoooo....less buttons & All screens....
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [GP2040 firmware](https://gp2040-ce.info/)
+- [GP2040-CE firmware](https://gp2040-ce.info/)
 
 For Hardware:
 - raspberry pi pico 
