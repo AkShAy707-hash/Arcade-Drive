@@ -62,6 +62,10 @@ For Hardware:
 
 controller schematic 
 
+# Demo
+
+
+https://github.com/user-attachments/assets/655005b8-a2df-44f5-9be2-40a0cb32e27c
 
 
 
