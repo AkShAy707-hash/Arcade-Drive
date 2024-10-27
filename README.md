@@ -1,19 +1,19 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# ARCADE DRIVE
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Twin Sparks
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Akshay Kumar -College of Engineering perumon 
+- Member 2: Aswin AS - College of Engineering perumon 
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Fun little Old School style controller for enjoying games with friend
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
