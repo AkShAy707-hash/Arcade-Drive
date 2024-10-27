@@ -19,7 +19,7 @@ Fun little Old School Arcade Machine style controller for enjoying games with fr
 Today's world has TOoooo....less buttons & All screens....
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The CONTROLLER!!!!
 
 ## Technical Details
 ### Technologies/Components Used
