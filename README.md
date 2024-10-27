@@ -13,10 +13,10 @@
 
 
 ### Project Description
-Fun little Old School style controller for enjoying games with friend
+Fun little Old School Arcade Machine style controller for enjoying games with friend
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Today's world has TOoooo....less buttons & All screens....
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -24,30 +24,27 @@ Fun little Old School style controller for enjoying games with friend
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- GP2040 firmware
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- raspberry pi pico 
+- limit switches 
+- tactile button 
 
-### Implementation
-For Software:
+
 # Installation
-[commands]
+- download the GP2040.uf2 file
+- connect the pico to your pc while pressing the boot/selc button
+- paste the GP2040.uf2 file in rpdrive
 
-# Run
-[commands]
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![1000090978](https://github.com/user-attachments/assets/7b4ed3eb-a804-4101-ae55-e116344628a6)
+![1000090979](https://github.com/user-attachments/assets/0e4c18db-5b4f-4e66-ac37-4c0161f28efb)
+
 *Add caption explaining what this shows*
+![1000090977](https://github.com/user-attachments/assets/a8901651-8060-4f15-9ed9-4e8245b32e95)
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
