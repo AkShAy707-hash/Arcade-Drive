@@ -24,7 +24,7 @@ Today's world has TOoooo....less buttons & All screens....
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- GP2040 firmware
+- [GP2040 firmware](https://gp2040-ce.info/)
 
 For Hardware:
 - raspberry pi pico 
@@ -39,54 +39,33 @@ For Hardware:
 
 
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![1000090978](https://github.com/user-attachments/assets/7b4ed3eb-a804-4101-ae55-e116344628a6)
 
 
 ![1000090979](https://github.com/user-attachments/assets/0e4c18db-5b4f-4e66-ac37-4c0161f28efb)
 
 
-*Add caption explaining what this shows*
 ![1000090977](https://github.com/user-attachments/assets/a8901651-8060-4f15-9ed9-4e8245b32e95)
 
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
 # Schematic & Circuit
 ![1000089032](https://github.com/user-attachments/assets/37f8f069-8b36-4b5c-a72b-bd9d45fdfe19)
 
 *raspberry pi pico pinout*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![1000091028](https://github.com/user-attachments/assets/7e0deec2-1056-47e5-a27f-d5c070d37e48)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+controller schematic 
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
